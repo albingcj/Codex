@@ -1,5 +1,5 @@
-#Generate the numbers which can be generated using the numbers which are provided.
-##example:
+# Generate the numbers which can be generated using the numbers which are provided.
+## example:
 IP: ```1,3,5```
 OP:
 ```
@@ -12,7 +12,7 @@ combination= 7
 3 8 
 1 3 8
 ```
-##code java
+## code java
 ```
 import java.util.*;
 public class Main {
